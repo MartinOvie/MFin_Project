@@ -5,7 +5,7 @@ author:
     - Vismayie Vandanapu
     - Ankit Kumar
     - Martin Arienmughare
-output: pdf_document
+output: html_document
 ---
 
 

@@ -4,7 +4,11 @@ author:
     - Vismayie Vandanapu
     - Ankit Kumar
     - Martin Arienmughare
+<<<<<<< HEAD
 output: pdf_document
+=======
+output: html_document
+>>>>>>> 2cfc6533ee52cb5d8f183da7cc3a4b6d41b5883b
 ---
 
 # Project Title
