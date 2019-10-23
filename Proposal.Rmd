@@ -1,10 +1,14 @@
 ---
 title: "Project Proposal"
+author: 
+    - Vismayie Vandanapu
+    - Ankit Kumar
+    - Martin Arienmughare
 output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
@@ -15,7 +19,7 @@ Obvious and hidden gamma in credit derivative land
 Vismayie Vandanapu \newline Ankit Kumar \newline Martin Arienmughare
 
 ## Name and contact information for your mentor
-Leon Tatevossian (lt56@nyu.edu)
+Leon Tatevossian (lt56@nyu.edu)
 
 ## A two or three sentence statement of the problem
 
