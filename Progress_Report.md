@@ -5,12 +5,8 @@ author:
     - Vismayie Vandanapu
     - Ankit Kumar
     - Martin Arienmughare
-output: pdf_document
+output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 
 # Progress to date
